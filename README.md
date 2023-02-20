@@ -36,8 +36,8 @@ Tech Skill
 📣Cowork Tools
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Githubs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Githubs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SVN-2E5E82?style=flat&logo=SVN&logoColor=white"/></a>
 
 
 
