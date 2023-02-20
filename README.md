@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hanny's github!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hanny's github!&fontAlign=70)
 <!--
 **hanny310/hanny310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
