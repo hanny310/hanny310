@@ -1,5 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Welcome&nbsp;Hanny's&nbsp;Github&fontSize=40&fontAlign=68)
+
+
+Tech Stack
+
+<img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+
 <!--
 **hanny310/hanny310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
