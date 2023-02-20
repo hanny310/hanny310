@@ -10,7 +10,7 @@
 Tech Skill
 <br/>
 <br/>
-✨Used as the main
+🔥Used as the main
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
@@ -30,11 +30,11 @@ Tech Skill
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/></a>
-
-
-✨Cowork Tools
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
+
+
+📣Cowork Tools
+
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Githubs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Githubs&logoColor=white"/></a>
