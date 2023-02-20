@@ -2,6 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Welcome&nbsp;Hanny's&nbsp;Github&fontSize=40&fontAlign=68)
 
 <div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanny310%2Fhit-counter&count_bg=%23F5C8E6&title_bg=%23F18A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  
 🛠️Tech Stack🛠️
 <br/>
 <br/>
