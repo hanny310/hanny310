@@ -7,9 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanny310%2Fhit-counter&count_bg=%23F5C8E6&title_bg=%23F18A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
-Tech Skill
-<br/>
-<br/>
+## Tech Skill 
 🔥Used as the main
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/></a>
